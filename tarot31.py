@@ -1,4 +1,4 @@
-cardList = ["fool", "magician", "high priestess", "empress", "emprror", "hierophant", "lovers", "chariot", "strength", "hermit", "wheel of fortune", "justice", "hanged man", "death", "temperance", "devil", "tower", "star", "moon", "sun", "judgement", "world"]
+cardList = ["fool", "magician", "high priestess", "empress", "emperor", "hierophant", "lovers", "chariot", "strength", "hermit", "wheel of fortune", "justice", "hanged man", "death", "temperance", "devil", "tower", "star", "moon", "sun", "judgement", "world"]
 
 cardDict = {
     "fool" : "being inexperienced, being carefree",
